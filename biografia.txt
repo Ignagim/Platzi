@@ -5,3 +5,5 @@ Hola mi nombre es Ignacio Gimenez y estoy empezando a programar.
 
     Esta es mi segunda semana aprendiendo a programar con Platzi. La verdad es que es bastante entretenido y la estoy pasando 
     muy bien con el profe Freddy.
+
+    Quiero contarles que yo estudiaba ingenieria industrial, pero al ser una carrera muy larga decidi cambiarme y probar nuevas cosas.
